@@ -16,8 +16,7 @@ Develop a scalable backend system to track the live location (GPS) of users in r
 
 ## Technical Stack
 - **Backend**: Node.js with Express framework.
-- **Database**: 
-  - MongoDB for storing user profiles and location data.
+- **Database**: MongoDB for storing user profiles and location data.
 - **Caching**: Redis can be used for caching frequently queried data and optimizing real-time data handling.
 - **Frontend**: Minimal UI built using JavaScript (or Postman for testing API endpoints).
 
